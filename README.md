@@ -24,7 +24,7 @@ Link Dataset : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 - dataset yang digunakan adalah dataset format csv.
 - terbagi dalam 2 class
 - dimana class distribusinya 357 benign, 212 malignant
-
+- informasi yang diperoleh nomor ID, Diagnosa (Malignant / Benign)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -41,6 +41,18 @@ Link Dataset : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 - Breast Cancer Malignant
 - Breast Cancer Benign
 
+#Sepuluh fitur bernilai nyata dihitung untuk setiap inti sel:
+
+- Radius (rata-rata jarak dari pusat ke titik-titik di sekeliling)
+- Tekstur (deviasi standar nilai skala abu-abu)
+- Perimeter
+- Daerah
+- Kehalusan (variasi lokal dalam panjang radius)
+- Kekompakan (perimeter ^ 2 / area - 1.0)
+- Konkavitas (tingkat keparahan bagian cekung pada kontur)
+- Titik cekung (jumlah bagian cekung dari kontur)
+- Simetri
+- Dimensi fraktal ("perkiraan garis pantai" - 1)
 
 
 ## Screenshots
