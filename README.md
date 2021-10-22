@@ -91,9 +91,9 @@ To do:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by author= {Andrew A. Borkowski, Marilyn M. Bui, L. Brannon Thomas, Catherine P. Wilson, Lauren A. DeLand, Stephen M. Mastorides},
-url= (https://github.com/tampapath/lung_colon_image_set).
-- This project was based on [Dataset BibTeX](https://github.com/tampapath/lung_colon_image_set).
+- This project was inspired by author= [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
+url= (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
+- This project was based on [https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
 - Many thanks to...
 
 
