@@ -56,7 +56,7 @@ Link Dataset : https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 
 ## Screenshots
-![Example screenshot](./img/Screenshot 2021-10-22 164900.png)
+files(./img/Screenshot 2021-10-22 164900.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
