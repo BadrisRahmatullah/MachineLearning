@@ -1,5 +1,5 @@
 # MachineLearning
-# Breast Cancer Classification using XGBoost
+# Breast Cancer Classification using SVM
 
  Machine Learning A 201810370311285 & 201810370311283
 
